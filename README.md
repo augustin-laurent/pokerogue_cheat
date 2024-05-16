@@ -16,9 +16,7 @@ CheatRogue is a Python-based tool designed to interact with the PokeRogue API. I
 
 ## Usage
 
-To use this tool, you need to create an instance of the  `cheatRogue`  class with your username and password. Then, you can call the methods to perform the desired actions.
-
-from  functions  import  cheatRogue
+Run the run.py script, everything is instancied in it, you are responsable for the usage of the cheat, it has been made for the developper to fix issue and prevent cheat like that.
 
 # Create an instance
 
